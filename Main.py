@@ -1,20 +1,4 @@
-#import pygame,sys
-#import os
-import pygame
-import sys
-import os
 
-class Window:
-    title = ""
-    def __init__(self,a,b):
-        pygame.init()
-    screen = pygame.display.set_mode((v.x,v.y))  
-    def Title():
-        input(title)
-        pygame.display.set_caption(title)
-    def setSize(x,y):
-        input(v.x)
-        input(v.y)
         
 
 
